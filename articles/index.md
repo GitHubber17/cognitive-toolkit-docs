@@ -11,7 +11,8 @@ ms.devlang:   NA
 
 # The Microsoft Cognitive Toolkit
 
-> NOTE: CNTK is no longer actively developed. See the [release notes of the final major release](./ReleaseNotes/CNTK_2_7_Release_Notes.md) for details.
+> [!NOTE]
+> CNTK is no longer actively developed. See the [release notes of the final major release](./ReleaseNotes/CNTK_2_7_Release_Notes.md) for details.
 
 The Microsoft Cognitive Toolkit (CNTK) is an open-source toolkit for commercial-grade distributed deep learning. It describes neural networks as a series of computational steps via a directed graph. CNTK allows the user to easily realize and combine popular model types such as feed-forward DNNs, convolutional neural networks (CNNs) and recurrent neural networks (RNNs/LSTMs). CNTK implements stochastic gradient descent (SGD, error backpropagation) learning with automatic differentiation and parallelization across multiple GPUs and servers.
 
